@@ -27,7 +27,7 @@ var url = require('url');
 	 });
  };
 
-  exports.getAircraftByMsn = function(req,res)
+  exports.getAircraftByfiler = function(req,res)
   {
  	 var connection = dbHelper.getConnection();
    console.log("*************************************");

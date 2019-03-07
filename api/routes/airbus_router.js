@@ -6,7 +6,7 @@ var querystring = require('querystring');
 
 
 router.get('/filters/search/',(req,res,next) => {
-  tic.getAircraftByMsn(req,res,function(err,result)
+  tic.getAircraftByfiler(req,res,function(err,result)
 {
   console.log("inside")
   var final = Object.assign({status:200}, result);
