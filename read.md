@@ -4,7 +4,7 @@ Please use
 We have implemented
 -> inserting the form data of each airplane or flight into db
 ->getting all the headline data and description from the db
-->getting the data based on fliters
+->getting the data based on filters
 The filters are as combination of
 ->msn
 ->flight_no
