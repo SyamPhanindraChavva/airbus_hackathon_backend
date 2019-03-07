@@ -1,0 +1,6 @@
+"msn","flight_name","harness_length","gross_weight","atom_pressure","room_temp","airport","fc_left_wing","fc_right_wing","fq_left_wing","fq_right_wing","max_alt","flight_no","source","destination","date"
+1231,"A320",123,3243,323,92,"Chennai",233,425,200,400,324,121,"Chennai","Bangalore","2019-01-22"
+1232,"A330",129,3209,234,89,"Bangalore",233,425,200,400,324,123,"Bangalore","Delhi","2019-02-01"
+1233,"A350",129,3209,234,89,"Bangalore",233,425,200,400,324,125,"Bangalore","Chennai","2019-02-23"
+1232,"A331",129,3209,234,78,"Delhi",233,425,200,400,324,153,"Delhi","Chennai","2019-02-01"
+5532,"A331",123,2343,324,252,"chennai",324,2342,324,252,235,425,"delhi","mumbai","2019-02-01"
